@@ -74,7 +74,7 @@ header{
 	height: 100%;
 	vertical-align: middle;
 }
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .left, .right {
         height: 100%;
 		font-size: 1.5rem;
