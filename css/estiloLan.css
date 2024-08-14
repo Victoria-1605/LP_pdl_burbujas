@@ -16,7 +16,7 @@
 	
 }
 body, html {
-  
+  height: 100%;
     width: 100%;
 }
 #Logotipo{
@@ -67,7 +67,7 @@ header{
 
 .container-fluid {
     padding: 0;
-
+	height: 100vh;
 }
 .row {
     margin: 0;
@@ -83,7 +83,7 @@ header{
 	
 }
 .left, .right {
-	height: 50vh;
+	height: 100vh;
 }
 @media screen and (min-width:768px){
 	/* .textl{
