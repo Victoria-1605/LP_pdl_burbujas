@@ -82,9 +82,9 @@ header{
 	
 	
 }
-.left, .right {
+/*.left, .right {
 	height: 100vh;
-}
+}*/
 @media screen and (min-width:768px){
 	/* .textl{
         font-size: 2rem;
